@@ -1,4 +1,4 @@
-proJMS - Messaging Library for the Processing environment
+## proJMS - Messaging Library for the Processing environment
 
 proJMS is a library for Processing that allows the easy usage of JMS. It allows publish and consume JMS messages and to create peer to peer communication between processing applications in a network.
 
