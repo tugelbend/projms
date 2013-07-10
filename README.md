@@ -10,9 +10,9 @@ proJMS has been sucessfully used for transmitting [GML](http://www.graffitimarku
 
 See the following pages for installation and usage:
 
-[Installation](Installing-proJMS)
+[Installation](https://github.com/tugelbend/projms/wiki/Installing-proJMS)
 
-[Usage](Using-proJMS)
+[Usage](https://github.com/tugelbend/projms/wiki/Using-proJMS)
 
 ***
 
